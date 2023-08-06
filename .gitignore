@@ -1,0 +1,12 @@
+# backup files
+*~
+*.swp
+*.bak
+*.orig
+
+/.vs/
+/*/obj/
+/*/bin/
+/*/MDK/MDK.paths.props
+/*/MDK/whitelist.cache
+
